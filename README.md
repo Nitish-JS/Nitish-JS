@@ -12,9 +12,6 @@
 
 🤝 Looking to collaborate on open source projects and hackathons.
 
-
-📫 How to reach me: jsnitish46@gmail.com , www.linkedin.com/in/nitish-j-s
-
 👀 Checkout my Codechef profile - https://www.codechef.com/users/nitish_js
 
 ✅ Checkout my HackerRank Profile - https://www.hackerrank.com/jsnitish
