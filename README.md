@@ -6,9 +6,7 @@
 
 📝 Sophomore pursuing Computer Science and Engineering from VIT, Vellore .
 
-
 💻 I'm Interested in Programming and Web development.
-
 
 🤝 Looking to collaborate on open source projects and hackathons.
 
@@ -42,6 +40,7 @@
   ![Github stats](https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=dark&show_icons=true&count_private=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-JS&layout=compact)
  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nitish-JS&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
