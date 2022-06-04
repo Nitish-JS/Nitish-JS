@@ -38,7 +38,7 @@
       
 </p>
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=highcontrast&show_icons=true&count_private=true)
 
 
 
@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 -->
   
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=highcontrast&show_icons=true&count_private=true)
+
