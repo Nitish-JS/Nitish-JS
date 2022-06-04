@@ -39,8 +39,7 @@
 </p>
 
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=highcontrast&show_icons=true&count_private=true)
-  
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=dark&show_icons=true&count_private=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-JS&layout=compact)
  
 
