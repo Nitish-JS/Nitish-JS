@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 -->
   
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitish-JS)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=highcontrast&show_icons=true&count_private=true
