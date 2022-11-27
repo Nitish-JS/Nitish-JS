@@ -40,22 +40,18 @@
 </p>
 
 
-  ![Github stats]<center>
-  <div>(https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=dark&show_icons=true&count_private=true)
-  </div>
-</center>
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=dark&show_icons=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-JS)
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nitish-JS&theme=highcontrast)](https://git.io/streak-stats)
+ [![Nitish's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nitish-JS)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ![Top Languages]
-  <center>
-  <div>(https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-JS&layout=compact)
-  </div>
- </center>
 
- [![GitHub Streak] <center>
-  <div>(https://github-readme-streak-stats.herokuapp.com?user=Nitish-JS&theme=highcontrast)](https://git.io/streak-stats)
-  </div>
-  </center>
-  [![Nitish's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nitish-JS)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 
 ### Reach Me out:
 <p align="center">
@@ -77,4 +73,3 @@ Here are some ideas to get you started:
 -->
   
   
-
