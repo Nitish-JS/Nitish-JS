@@ -31,10 +31,11 @@
       <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="nodemon" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="mongodb" width="65" height="65"/> 
-<img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="55" height="55" alt="c++ logo image" />
-  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="mongodb" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="65" height="65"/> 
+      <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="55" height="55" alt="c++ logo image" />
+      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="mongodb" width="65" height="65"/> 
       
 </p>
 
@@ -44,6 +45,7 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-JS&layout=compact)
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nitish-JS&theme=highcontrast)](https://git.io/streak-stats)
+ [![Nitish's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nitish-JS)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
