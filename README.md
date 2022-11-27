@@ -39,19 +39,20 @@
       
 </p>
 
-<center>
-  <div>
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=dark&show_icons=true&count_private=true)
+
+  ![Github stats]<center>
+  <div>(https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=dark&show_icons=true&count_private=true)
   </div>
 </center>
-<center>
-  <div>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-JS&layout=compact)
+
+  ![Top Languages]
+  <center>
+  <div>(https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-JS&layout=compact)
   </div>
  </center>
- <center>
-  <div>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nitish-JS&theme=highcontrast)](https://git.io/streak-stats)
+
+ [![GitHub Streak] <center>
+  <div>(https://github-readme-streak-stats.herokuapp.com?user=Nitish-JS&theme=highcontrast)](https://git.io/streak-stats)
   </div>
   </center>
   [![Nitish's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nitish-JS)](https://github.com/ashutosh00710/github-readme-activity-graph)
