@@ -41,29 +41,10 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitish-JS&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-JS&layout=compact" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nitish-JS&theme=highcontrast)](https://git.io/streak-stats)
+<div align="center">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Nitish-JS&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=000000&hide_border=true" />  
+</div>
 
-<!--   ![Github stats](https://github-readme-stats.vercel.app/api?username=Nitish-JS&theme=dark&show_icons=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-JS&layout=compact)
- 
- 
- [![Nitish's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nitish-JS&theme=react&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-
-
-
-
-
-<center>
-  <h3>Reach Me out: </h3>
-  </center>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/nitish-j-s" target="blank" >
-  <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="" height="40" width="40" /></a>&nbsp;
-<a href="mailto: jsnitish46@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="" height="40" width="40" /></a>&nbsp;
-  </p>
 <!--
 **Nitish-JS/Nitish-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
