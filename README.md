@@ -55,11 +55,15 @@
 
 
 
+<center>
+  <h3>Reach Me out: </h3>
+  </center>
 
-### Reach Me out:
 <p align="center">
-<a href="https://www.linkedin.com/in/nitish-j-s" target="blank" ><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="" height="40" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/nitish-j-s" target="blank" >
+  <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="" height="40" width="40" /></a>&nbsp;
 <a href="mailto: jsnitish46@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="" height="40" width="40" /></a>&nbsp;
+  </p>
 <!--
 **Nitish-JS/Nitish-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
