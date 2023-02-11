@@ -10,7 +10,7 @@
 
 🤝 Looking to collaborate on open source projects and hackathons.
 
-👋 Checkout my portfolio - https://nitishjs.live
+👋 Checkout my portfolio - https://nitishjs.tech
 
 👀 Checkout my Codechef profile - https://www.codechef.com/users/nitish_js
 
