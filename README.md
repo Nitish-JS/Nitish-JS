@@ -4,7 +4,7 @@
 
 
 
-📝 Sophomore pursuing Computer Science and Engineering from VIT, Vellore .
+📝 Pre-Final year student pursuing Computer Science and Engineering from VIT, Vellore .
 
 💻 I'm Interested in Programming and Web development.
 
