@@ -24,23 +24,9 @@
 ## Worked with:
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="85" height="60"/> 
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="html" width="85" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="nodemon" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="65" height="65"/> 
-      <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="55" height="55" alt="c++ logo image" />
-      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="mongodb" width="65" height="65"/> 
-      
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,express,figma,firebase,flask,git,github,heroku,html,java,js,jquery,materialui,mysql,netlify,nodejs,nextjs,php,postgres,py,r,react,redux,ts,vscode,vercel" />
 </p>
+
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitish-JS&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-JS&layout=compact" />
